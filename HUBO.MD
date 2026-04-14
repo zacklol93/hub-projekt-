@@ -4,24 +4,6 @@
 
 ---
 
-## 📖 Spis Treści
-- [CommunityHub — Dokumentacja Systemu](#communityhub--dokumentacja-systemu)
-  - [📖 Spis Treści](#-spis-treści)
-  - [Wizja i Misja](#wizja-i-misja)
-  - [Kluczowe Funkcjonalności](#kluczowe-funkcjonalności)
-    - [1. Huby (Serce Platformy)](#1-huby-serce-platformy)
-    - [2. Mikroblogowanie (The Pulse)](#2-mikroblogowanie-the-pulse)
-    - [3. Mechanika Interakcji](#3-mechanika-interakcji)
-  - [Architektura Systemu](#architektura-systemu)
-    - [Frontend](#frontend)
-    - [Backend \& Data](#backend--data)
-  - [Interfejs Użytkownika (UI/UX)](#interfejs-użytkownika-uiux)
-  - [Model Biznesowy i Monetyzacja](#model-biznesowy-i-monetyzacja)
-  - [Roadmap Projektu](#roadmap-projektu)
-    - [Faza 1: Fundamenty (Q2 2026)](#faza-1-fundamenty-q2-2026)
-
----
-
 ##  Wizja i Misja
 
 ---
