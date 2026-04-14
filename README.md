@@ -23,7 +23,6 @@
 ---
 
 ##  Wizja i Misja
-W świecie zdominowanym przez globalne algorytmy, **CommunityHub** przywraca znaczenie lokalnym i tematycznym społecznościom. Naszym celem jest stworzenie miejsca, gdzie jakość dyskusji przeważa nad zasięgami.
 
 ---
 
