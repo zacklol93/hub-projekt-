@@ -4,10 +4,6 @@
 
 ---
 
-##  Wizja i Misja
-
----
-
 ##  Kluczowe Funkcjonalności
 
 ### 1. Huby (Serce Platformy)
