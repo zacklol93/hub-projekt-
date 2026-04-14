@@ -66,10 +66,6 @@ Zamiast jednego, ogólnego feedu, użytkownicy mogą tworzyć i dołączać do *
 
 ---
 
-##  Interfejs Użytkownika (UI/UX)
-
----
-
 ##  Model Biznesowy i Monetyzacja
 
 Model oparty na transparentności, a nie handlu danymi:
